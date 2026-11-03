@@ -1,90 +1,94 @@
 <p align="center">
-  <img src="assets/ggma-logo.png" alt="GGAM Games" width="220" />
+  <img src="assets/ggma-logo-1024.png" alt="GGAM Games" width="280" />
 </p>
 
 <h1 align="center">GGAM Games</h1>
 
 <p align="center">
-  <strong>Mobil oyun stüdyosu</strong><br/>
-  Klasik masa &amp; kart oyunları · Bulmaca · Aksiyon<br/>
-  iOS &amp; Android
+  <strong>Mobile Game Studio</strong><br/>
+  Klasik masa &amp; kart · Bulmaca · Aksiyon<br/>
+  <em>iOS &amp; Android</em>
 </p>
 
 <p align="center">
-  <img alt="Location" src="https://img.shields.io/badge/Lokasyon-Türkiye-111111?style=flat-square" />
-  <img alt="Platform" src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-0A66C2?style=flat-square" />
-  <img alt="Stack" src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Unity%20%7C%20.NET-6C63FF?style=flat-square" />
+  <img alt="Location" src="https://img.shields.io/badge/Location-Türkiye-1a1a1a?style=for-the-badge" />
+  <img alt="Platforms" src="https://img.shields.io/badge/Platforms-iOS%20%7C%20Android-0A66C2?style=for-the-badge" />
+  <img alt="Stack" src="https://img.shields.io/badge/Stack-Flutter%20%7C%20Unity%20%7C%20.NET-5B4B8A?style=for-the-badge" />
 </p>
 
 ---
 
-## Hakkımızda
+## About
 
-GGAM Games, App Store ve Google Play için üretilen mobil oyunlar geliştiren bir stüdyodur. Portföyümüzde online çok oyunculu klasikler, kısa oturumlu bulmacalar ve aksiyon başlıkları yer alır.
+GGAM Games develops and publishes mobile games for the App Store and Google Play. Our portfolio spans online multiplayer classics, short-session puzzles, and touch-first action titles.
 
-Odak alanlarımız:
-
-- **Klasik oyunlar** — okey, tavla, satranç, batak, pişti, uno ve benzeri
-- **Bulmaca** — sayı, blok ve ok mantığı odaklı casual deneyimler
-- **Aksiyon &amp; arcade** — hızlı tempolu, dokunmatik kontrollü oyunlar
+| Focus | Examples |
+|:------|:---------|
+| **Classic** | Okey, tavla, chess, batak, pişti, UNO |
+| **Puzzle** | Number, block, and arrow logic games |
+| **Action & Arcade** | Fast sessions, touch controls |
 
 ---
 
-## Portföy
+## Portfolio
 
-| Oyun | Tür | Repo |
-|------|-----|------|
-| 101 Kral Okey Online | Online masa | [`101-kral-okey-online`](https://github.com/GGAM-Games/101-kral-okey-online) |
-| Tavla Online | Online masa | [`tavla-online`](https://github.com/GGAM-Games/tavla-online) |
-| Satranç Online | Online masa | [`santranc-online`](https://github.com/GGAM-Games/santranc-online) |
-| UNO | Kart | [`uno-game`](https://github.com/GGAM-Games/uno-game) |
-| Pis Yedili | Kart | [`pis7-online-game`](https://github.com/GGAM-Games/pis7-online-game) |
-| Batak | Kart | [`batak`](https://github.com/GGAM-Games/batak) |
-| Pişti | Kart | [`pisti`](https://github.com/GGAM-Games/pisti) |
-| Klaro Puzzle | Bulmaca | [`klaro-puzzle`](https://github.com/GGAM-Games/klaro-puzzle) |
-| CrossMath | Bulmaca | [`crossmath-number-puzzle`](https://github.com/GGAM-Games/crossmath-number-puzzle) |
-| ArrowGO | Bulmaca | [`arrowgo-ok-bulmaca`](https://github.com/GGAM-Games/arrowgo-ok-bulmaca) |
-| Let the Number Fall | Bulmaca | [`let-the-number-fall`](https://github.com/GGAM-Games/let-the-number-fall) |
-| Mind Labyrinth | Bulmaca | [`mind-labyrinth`](https://github.com/GGAM-Games/mind-labyrinth) |
+| Title | Genre | Repository |
+|:------|:------|:-----------|
+| 101 Kral Okey Online | Online table | [`101-kral-okey-online`](https://github.com/GGAM-Games/101-kral-okey-online) |
+| Tavla Online | Online table | [`tavla-online`](https://github.com/GGAM-Games/tavla-online) |
+| Satranç Online | Online table | [`santranc-online`](https://github.com/GGAM-Games/santranc-online) |
+| UNO | Cards | [`uno-game`](https://github.com/GGAM-Games/uno-game) |
+| Pis Yedili | Cards | [`pis7-online-game`](https://github.com/GGAM-Games/pis7-online-game) |
+| Batak | Cards | [`batak`](https://github.com/GGAM-Games/batak) |
+| Pişti | Cards | [`pisti`](https://github.com/GGAM-Games/pisti) |
+| Klaro Puzzle | Puzzle | [`klaro-puzzle`](https://github.com/GGAM-Games/klaro-puzzle) |
+| CrossMath | Puzzle | [`crossmath-number-puzzle`](https://github.com/GGAM-Games/crossmath-number-puzzle) |
+| ArrowGO | Puzzle | [`arrowgo-ok-bulmaca`](https://github.com/GGAM-Games/arrowgo-ok-bulmaca) |
+| Let the Number Fall | Puzzle | [`let-the-number-fall`](https://github.com/GGAM-Games/let-the-number-fall) |
+| Mind Labyrinth | Puzzle | [`mind-labyrinth`](https://github.com/GGAM-Games/mind-labyrinth) |
 | Fruit Butcher | Arcade | [`fruit-butcher`](https://github.com/GGAM-Games/fruit-butcher) |
 | Zamkır | Casual | [`zambir`](https://github.com/GGAM-Games/zambir) |
 | Tank 1990 | Arcade | [`tank-1990`](https://github.com/GGAM-Games/tank-1990) |
-| Echoes of the Oasis | Simülasyon | [`echoes-of-the-oasis--game`](https://github.com/GGAM-Games/echoes-of-the-oasis--game) |
-| World State Online | Strateji | [`worlstate-online`](https://github.com/GGAM-Games/worlstate-online) |
-| Air Combat | Aksiyon | [`air-combat`](https://github.com/GGAM-Games/air-combat) |
+| Echoes of the Oasis | Simulation | [`echoes-of-the-oasis--game`](https://github.com/GGAM-Games/echoes-of-the-oasis--game) |
+| World State Online | Strategy | [`worlstate-online`](https://github.com/GGAM-Games/worlstate-online) |
+| Air Combat | Action | [`air-combat`](https://github.com/GGAM-Games/air-combat) |
 
-> Repoların çoğu özel (private) tutulur. Erişim için org üyeliği gerekir.
+> Most game repositories are **private**. Organization membership is required for access.
 
 ---
 
-## Teknoloji
+## Technology
 
-| Alan | Araçlar |
-|------|---------|
-| Mobil istemci | Flutter (Dart), Unity (C#) |
+| Layer | Tools |
+|:------|:------|
+| Client | Flutter (Dart), Unity (C#) |
 | Backend | .NET, Firebase |
-| Dağıtım | App Store Connect, Google Play, Fastlane |
-| Marka varlıkları | [`ggma-games-info`](https://github.com/GGAM-Games/ggma-games-info) |
+| Release | App Store Connect, Google Play, Fastlane |
+| Brand | [`ggma-games-info`](https://github.com/GGAM-Games/ggma-games-info) |
 
 ---
 
-## Marka
+## Brand assets
 
-Logo paketleri ve stüdyo görselleri:
+Studio logos and packaging files live in:
 
-[`GGAM-Games/ggma-games-info`](https://github.com/GGAM-Games/ggma-games-info)
+**[`GGAM-Games/ggma-games-info`](https://github.com/GGAM-Games/ggma-games-info)**
 
-<p>
-  <img src="assets/ggma-icon.png" alt="GGAM icon" width="72" />
+<p align="center">
+  <img src="assets/ggma-icon.png" alt="GGAM icon" width="64" />
 </p>
 
 ---
 
-## İletişim
+## Contact
 
-- **GitHub:** [github.com/GGAM-Games](https://github.com/GGAM-Games)
-- **Konum:** Türkiye
+| | |
+|:--|:--|
+| GitHub | [github.com/GGAM-Games](https://github.com/GGAM-Games) |
+| Location | Türkiye |
+
+<br/>
 
 <p align="center">
-  <sub>© GGAM Games — All rights reserved.</sub>
+  <sub>© GGAM Games. All rights reserved.</sub>
 </p>
